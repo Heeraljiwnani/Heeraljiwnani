@@ -2,9 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HEERAL%20JIWNANI&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Creative%20Frontend%20Developer%20|%20UI%20Architect&descAlignY=60&descSize=20" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences;Turning+Coffee+into+Code;Obsessed+with+Smooth+UI;Exploring+the+Backend+Void" />
-</a>
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences;Turning+Coffee+into+Code;Obsessed+with+Smooth+UI;Exploring+the+Backend+Void"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
 <br/>
 
